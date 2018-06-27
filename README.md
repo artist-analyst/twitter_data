@@ -1,2 +1,2 @@
 # twitter_data
-Analysis of twitter data using the R package twitteR
+Some data analysis of twitter data using the R package twitteR.
